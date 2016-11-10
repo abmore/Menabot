@@ -1,1 +1,3 @@
 # Menabot
+
+Ceci devrait être le fichier Readme, mais j'ai la flemme de le compléter ...
